@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7153eb0d-bcbe-4b66-b4d0-c3b412d4af39" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_logger/logger_fun.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="104">
+              <caret line="10" selection-end-line="47" />
+              <folding>
+                <element signature="e#145#160#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_logger/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+              <folding>
+                <element signature="e#144#160#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/operate_database/mongo_data/dlt_repeat_mongo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-180">
+              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/operate_database/mongo_data/op_mongo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TOOLS/MD5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TOOLS/random_passwd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_logger/test2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/learn_logger/test3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>li</find>
+      <find>logger.debug</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>log</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/taobao/taobaoSpider" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/tuling_robot.py" />
+        <option value="$PROJECT_DIR$/wechat_robot.py" />
+        <option value="$PROJECT_DIR$/wechat_robot_friend.py" />
+        <option value="$PROJECT_DIR$/wechat_robot_group.py" />
+        <option value="$PROJECT_DIR$/robot/wechat_roobot.py" />
+        <option value="$PROJECT_DIR$/baiduAPI/identify_words.py" />
+        <option value="$PROJECT_DIR$/robot/wechat_robot_group.py" />
+        <option value="$PROJECT_DIR$/baiduAPI/identufy_words/baidu.py" />
+        <option value="$PROJECT_DIR$/robot/test.py" />
+        <option value="$PROJECT_DIR$/operate_database/mongo_data/product_user.json" />
+        <option value="$PROJECT_DIR$/operate_database/mongo_data/test.json" />
+        <option value="$PROJECT_DIR$/operate_database/mongo_data/test.txt" />
+        <option value="$PROJECT_DIR$/operate_database/test.py" />
+        <option value="$PROJECT_DIR$/TOOLS/random_passwd.py" />
+        <option value="$PROJECT_DIR$/operate_database/dlt_repeat_mongo.py" />
+        <option value="$PROJECT_DIR$/operate_database/op_mongo.py" />
+        <option value="$PROJECT_DIR$/baiduAPI/commom_identify/identify_people.py" />
+        <option value="$PROJECT_DIR$/baiduAPI/identify_humen/identify_people.py" />
+        <option value="$PROJECT_DIR$/TOOLS/MD5.py" />
+        <option value="$PROJECT_DIR$/AES/AESCipher.py" />
+        <option value="$PROJECT_DIR$/baiduAPI/identify_words/baidu.py" />
+        <option value="$PROJECT_DIR$/threading_multiprocess/learn_threading.py" />
+        <option value="$PROJECT_DIR$/threading_multiprocess/learn_multiprocess.py" />
+        <option value="$PROJECT_DIR$/robot/wechat_robot_friend.py" />
+        <option value="$PROJECT_DIR$/learn_logger/test1.py" />
+        <option value="$PROJECT_DIR$/robot/qing_yun_ke.py" />
+        <option value="$PROJECT_DIR$/robot/tuling_robot.py" />
+        <option value="$PROJECT_DIR$/learn_logger/test3.py" />
+        <option value="$PROJECT_DIR$/learn_logger/test.log" />
+        <option value="$PROJECT_DIR$/learn_logger/run_file_2019_08_20.log" />
+        <option value="$PROJECT_DIR$/learn_logger/logs/run_file_2019_08_20.log" />
+        <option value="$PROJECT_DIR$/learn_logger/logger_fun.py" />
+        <option value="$PROJECT_DIR$/learn_logger/main.py" />
+        <option value="$PROJECT_DIR$/learn_logger/test2.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myProject" type="462c0819:PsiDirectoryNode" />
+              <item name="TOOLS" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="idea.background.editor" value="D:\360downloads\325415.jpg,30,scale,center" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/baiduAPI/identify_words/pictures" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\myProject\baiduAPI\identify_words\pictures" />
+      <recent name="D:\project\myProject\AES" />
+      <recent name="D:\project\myProject\baiduAPI\identify_humen\images" />
+      <recent name="D:\project\myProject\baiduAPI\pictures" />
+      <recent name="D:\project\myProject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\myProject\operate_database\mongo_data" />
+      <recent name="D:\project\myProject\baiduAPI\identify_words" />
+      <recent name="D:\project\myProject\baiduAPI\identufy_words" />
+      <recent name="D:\project\myProject\robot" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.random_passwd">
+    <configuration name="MD5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="myProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TOOLS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TOOLS/MD5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="myProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/learn_logger" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/learn_logger/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="qing_yun_ke" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="myProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/robot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/robot/qing_yun_ke.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="random_passwd" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="myProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TOOLS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TOOLS/random_passwd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tuling_robot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="myProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/robot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/robot/tuling_robot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.random_passwd" />
+        <item itemvalue="Python.MD5" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.tuling_robot" />
+        <item itemvalue="Python.qing_yun_ke" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7153eb0d-bcbe-4b66-b4d0-c3b412d4af39" name="Default Changelist" comment="" />
+      <created>1556159081058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556159081058</updated>
+      <workItem from="1556159093900" duration="11782000" />
+      <workItem from="1556180661663" duration="4046000" />
+      <workItem from="1556190553018" duration="3725000" />
+      <workItem from="1556240750355" duration="4927000" />
+      <workItem from="1556266417826" duration="237000" />
+      <workItem from="1556278758299" duration="3920000" />
+      <workItem from="1556358618211" duration="2167000" />
+      <workItem from="1556531679364" duration="657000" />
+      <workItem from="1557050457570" duration="450000" />
+      <workItem from="1557106301322" duration="15980000" />
+      <workItem from="1557193542214" duration="5068000" />
+      <workItem from="1557276438405" duration="5162000" />
+      <workItem from="1557293636397" duration="9008000" />
+      <workItem from="1557449732204" duration="660000" />
+      <workItem from="1558577888403" duration="3738000" />
+      <workItem from="1558596112282" duration="1358000" />
+      <workItem from="1558689147686" duration="653000" />
+      <workItem from="1560317027438" duration="1008000" />
+      <workItem from="1562216728826" duration="1413000" />
+      <workItem from="1562288507003" duration="5000" />
+      <workItem from="1564049017558" duration="852000" />
+      <workItem from="1564103270946" duration="595000" />
+      <workItem from="1564371466403" duration="1705000" />
+      <workItem from="1564388823085" duration="137000" />
+      <workItem from="1564394168366" duration="641000" />
+      <workItem from="1564454414398" duration="1206000" />
+      <workItem from="1564464735844" duration="597000" />
+      <workItem from="1564472851335" duration="1312000" />
+      <workItem from="1564740194061" duration="3662000" />
+      <workItem from="1564966734995" duration="72000" />
+      <workItem from="1564967740777" duration="4282000" />
+      <workItem from="1564992116155" duration="3421000" />
+      <workItem from="1565084091145" duration="2132000" />
+      <workItem from="1565139928405" duration="675000" />
+      <workItem from="1565256079248" duration="1955000" />
+      <workItem from="1565312358173" duration="107000" />
+      <workItem from="1565331091263" duration="1340000" />
+      <workItem from="1565340962450" duration="627000" />
+      <workItem from="1565592568177" duration="641000" />
+      <workItem from="1566185916587" duration="599000" />
+      <workItem from="1566194530621" duration="2310000" />
+      <workItem from="1566197432055" duration="2650000" />
+      <workItem from="1566273551155" duration="4187000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="111669000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23324397" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.31586403" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4950495" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.398017" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3895184" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.30878186" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.41908714" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.5934844" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4950495" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50067025" side_tool="true" weight="0.398017" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.42774567" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.34512022" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="R Graphics" order="4" />
+      <window_info anchor="right" id="R Packages" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/myProject$dlt_repeat_mongo.coverage" NAME="dlt_repeat_mongo Coverage Results" MODIFIED="1557198697653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/operate_database" />
+    <SUITE FILE_PATH="coverage/myProject$wechat_robot_friend.coverage" NAME="wechat_robot_friend Coverage Results" MODIFIED="1565084794327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/robot" />
+    <SUITE FILE_PATH="coverage/myProject$qing_yun_ke.coverage" NAME="qing_yun_ke Coverage Results" MODIFIED="1566196222678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/robot" />
+    <SUITE FILE_PATH="coverage/myProject$MD5.coverage" NAME="MD5 Coverage Results" MODIFIED="1566282397524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TOOLS" />
+    <SUITE FILE_PATH="coverage/myProject$baidu.coverage" NAME="baidu Coverage Results" MODIFIED="1558689192866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baiduAPI/identify_words" />
+    <SUITE FILE_PATH="coverage/myProject$wechat_robot_group.coverage" NAME="wechat_robot_group Coverage Results" MODIFIED="1556173043492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/myProject$identify_people.coverage" NAME="identify_people Coverage Results" MODIFIED="1558580031405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baiduAPI/identify_humen" />
+    <SUITE FILE_PATH="coverage/myProject$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1566195077123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_logger" />
+    <SUITE FILE_PATH="coverage/myProject$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1566195071472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_logger" />
+    <SUITE FILE_PATH="coverage/myProject$learn_multiprocess.coverage" NAME="learn_multiprocess Coverage Results" MODIFIED="1564993716870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threading_multiprocess" />
+    <SUITE FILE_PATH="coverage/myProject$test.coverage" NAME="test Coverage Results" MODIFIED="1557127091113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/operate_database" />
+    <SUITE FILE_PATH="coverage/myProject$op_mongo.coverage" NAME="op_mongo Coverage Results" MODIFIED="1557388642420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/operate_database" />
+    <SUITE FILE_PATH="coverage/myProject$tuling_robot.coverage" NAME="tuling_robot Coverage Results" MODIFIED="1566196267859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/robot" />
+    <SUITE FILE_PATH="coverage/myProject$random_passwd.coverage" NAME="random_passwd Coverage Results" MODIFIED="1566282420779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TOOLS" />
+    <SUITE FILE_PATH="coverage/myProject$wechat_robot.coverage" NAME="wechat_robot Coverage Results" MODIFIED="1556171119465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/myProject$learn_threading.coverage" NAME="learn_threading Coverage Results" MODIFIED="1564969265577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/threading_multiprocess" />
+    <SUITE FILE_PATH="coverage/myProject$main.coverage" NAME="main Coverage Results" MODIFIED="1566279585050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_logger" />
+    <SUITE FILE_PATH="coverage/myProject$wechat_robot_group__1_.coverage" NAME="wechat_robot_group (1) Coverage Results" MODIFIED="1556183599333" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/robot" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/baiduAPI/identify_words.py" />
+    <entry file="file://$PROJECT_DIR$/baiduAPI/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/baiduAPI/identufy_words/baidu_api_test.py" />
+    <entry file="file://$PROJECT_DIR$/baiduAPI/identufy_words/test.png" />
+    <entry file="file://$PROJECT_DIR$/baiduAPI/identify_words/pictures/test.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/operate_database/mongo_data/product_user.json" />
+    <entry file="file://D:/environment/myProject/Lib/site-packages/pymongo/collection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="1274" lean-forward="true" selection-start-line="1274" selection-end-line="1274" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/operate_database/mongo_data/test.json" />
+    <entry file="file://D:/python36/Lib/string.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="30" column="53" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobao/taobaoSpider/TaoBao_project/TaoBao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" selection-start-line="15" selection-end-line="19" selection-end-column="97" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobao/jie_ping/cut_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baiduAPI/identify_humen/images/324152.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baiduAPI/identify_humen/identify_people.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#23#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/environment/myProject/Lib/site-packages/wxpy/ext/tuling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/environment/myProject/Lib/site-packages/Crypto/Cipher/_mode_ecb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="147" column="8" selection-start-line="147" selection-start-column="8" selection-end-line="147" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robot/wechat_roobot.py" />
+    <entry file="file://$PROJECT_DIR$/robot/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_sendemail/send_email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baiduAPI/identify_words/baidu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AES/AESCipher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2250">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobao/jie_ping/identify_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="53" column="52" selection-start-line="53" selection-start-column="52" selection-end-line="53" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python36/Lib/logging/handlers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="46" column="40" lean-forward="true" selection-start-line="46" selection-start-column="40" selection-end-line="46" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python36/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="1019" column="24" lean-forward="true" selection-start-line="1019" selection-start-column="24" selection-end-line="1019" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobao/TaoBao_project/TaoBao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="250" column="36" selection-start-line="250" selection-start-column="36" selection-end-line="250" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python36/Lib/multiprocessing/pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-173">
+          <caret line="379" column="21" lean-forward="true" selection-start-line="379" selection-start-column="21" selection-end-line="379" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robot/wechat_robot_group.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robot/build/wechat_robot_friend/warn-wechat_robot_friend.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robot/wechat_robot_friend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robot/qing_yun_ke.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robot/tuling_robot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/robot/wechat_robot_friend.spec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/threading_multiprocess/learn_threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="51" column="21" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+          <folding>
+            <element signature="e#154#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/threading_multiprocess/learn_multiprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+          <folding>
+            <element signature="e#157#189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_logger/test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_logger/test.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="90">
+          <caret line="3" column="62" lean-forward="true" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_logger/run_file.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="44">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_logger/run_file_2019_08_20.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_logger/logger_fun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="10" selection-end-line="47" />
+          <folding>
+            <element signature="e#145#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_logger/logs/run_file_2019_08_20.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_logger/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_logger/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <element signature="e#144#160#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/operate_database/mongo_data/dlt_repeat_mongo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-180">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/operate_database/mongo_data/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="12" lean-forward="true" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/operate_database/mongo_data/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learn_logger/logs/traceback_2019_08_20.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="90">
+          <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/operate_database/mongo_data/op_mongo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TOOLS/MD5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TOOLS/random_passwd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="15" lean-forward="true" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

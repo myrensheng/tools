@@ -1,0 +1,14 @@
+2019-08-20 13:37:26,551 [logger_fun.py log:40] 2232 DEBUG Traceback (most recent call last):
+  File "D:/project/myProject/learn_logger/main.py", line 19, in <module>
+    t2.strat()
+  File "D:\project\myProject\learn_logger\test2.py", line 11, in strat
+    3/0
+ZeroDivisionError: division by zero
+
+2019-08-20 13:39:11,951 [logger_fun.py log:40] 11852 DEBUG 账号Traceback (most recent call last):
+  File "D:/project/myProject/learn_logger/main.py", line 19, in <module>
+    t2.strat()
+  File "D:\project\myProject\learn_logger\test2.py", line 11, in strat
+    3/0
+ZeroDivisionError: division by zero
+

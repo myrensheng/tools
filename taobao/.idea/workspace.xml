@@ -1,0 +1,722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1e015c6-c75a-4eaa-9da4-52d2adb061e3" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/taobao$login.coverage" NAME="login Coverage Results" MODIFIED="1555062853932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alipaySpider" />
+    <SUITE FILE_PATH="coverage/taobao$jianjiao.coverage" NAME="jianjiao Coverage Results" MODIFIED="1555320487268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alipaySpider/jianjiao_data" />
+    <SUITE FILE_PATH="coverage/taobao$taobao_phone.coverage" NAME="taobao_phone Coverage Results" MODIFIED="1552373570466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/taobao$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1554964128526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/restruct_taobao" />
+    <SUITE FILE_PATH="coverage/taobao$deliverAddress.coverage" NAME="deliverAddress Coverage Results" MODIFIED="1553130524462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/restruct_taobao" />
+    <SUITE FILE_PATH="coverage/taobao$userinfo.coverage" NAME="userinfo Coverage Results" MODIFIED="1552383006818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/taobao$baidu.coverage" NAME="baidu Coverage Results" MODIFIED="1555396460321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alipaySpider/baiduAIP" />
+    <SUITE FILE_PATH="coverage/taobao$TaoBao.coverage" NAME="TaoBao Coverage Results" MODIFIED="1555036924229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/restruct_taobao" />
+    <SUITE FILE_PATH="coverage/taobao$userinfos__1_.coverage" NAME="userinfos (1) Coverage Results" MODIFIED="1552612960552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/taobaoSpider" />
+    <SUITE FILE_PATH="coverage/taobao$setup.coverage" NAME="setup Coverage Results" MODIFIED="1554962411845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/restruct_taobao" />
+    <SUITE FILE_PATH="coverage/taobao$pillow_test.coverage" NAME="pillow_test Coverage Results" MODIFIED="1555396831889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jie_ping" />
+    <SUITE FILE_PATH="coverage/taobao$save_data.coverage" NAME="save_data Coverage Results" MODIFIED="1555053555481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TaoBao_project" />
+    <SUITE FILE_PATH="coverage/taobao$TaoBao__2_.coverage" NAME="TaoBao (2) Coverage Results" MODIFIED="1555054902489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TaoBao_project" />
+    <SUITE FILE_PATH="coverage/taobao$baidu__1_.coverage" NAME="baidu (1) Coverage Results" MODIFIED="1555404633288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alipaySpider" />
+    <SUITE FILE_PATH="coverage/taobao$recentdeliveraddress.coverage" NAME="recentdeliveraddress Coverage Results" MODIFIED="1554954638931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/restruct_taobao" />
+    <SUITE FILE_PATH="coverage/taobao$identify_code.coverage" NAME="identify_code Coverage Results" MODIFIED="1555395453168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alipaySpider" />
+    <SUITE FILE_PATH="coverage/taobao$userinfos.coverage" NAME="userinfos Coverage Results" MODIFIED="1553161973516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/restruct_taobao" />
+    <SUITE FILE_PATH="coverage/taobao$TaoBao__1_.coverage" NAME="TaoBao (1) Coverage Results" MODIFIED="1555038859980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/restruct_taobao/TaoBao_project" />
+    <SUITE FILE_PATH="coverage/taobao$test.coverage" NAME="test Coverage Results" MODIFIED="1552557644128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/taobaoSpider" />
+    <SUITE FILE_PATH="coverage/taobao$identify_code__1_.coverage" NAME="identify_code (1) Coverage Results" MODIFIED="1555396100050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alipaySpider/tesserocr_identify" />
+    <SUITE FILE_PATH="coverage/taobao$tradedetails.coverage" NAME="tradedetails Coverage Results" MODIFIED="1554953670232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/restruct_taobao" />
+    <SUITE FILE_PATH="coverage/taobao$rest.coverage" NAME="rest Coverage Results" MODIFIED="1552380416765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/taobao$tesserocr_test.coverage" NAME="tesserocr_test Coverage Results" MODIFIED="1555409009385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alipaySpider/tesserocr_identify" />
+    <SUITE FILE_PATH="coverage/taobao$userinfos_.coverage" NAME="userinfos_ Coverage Results" MODIFIED="1552621014309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/restruct_taobao" />
+    <SUITE FILE_PATH="coverage/taobao$Twisted_Trial_in_test__py.coverage" NAME="Twisted Trial in test_.py Coverage Results" MODIFIED="1555384808416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jie_ping" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="taobao" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baihe.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/restruct_taobao/mitmproxy_.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/restruct_taobao/m2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" column="47" lean-forward="true" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TaoBao_project/TaoBao.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="383" lean-forward="true" selection-start-line="383" selection-end-line="383" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>会员名</find>
+      <find>267102950091755198</find>
+      <find>官方超快充—陕西移动20元手机话费充值</find>
+      <find>info_xpath</find>
+      <find>text</find>
+      <find>ChromeDriverNOBrowser</find>
+      <find>hrome_driver_nobrowser</find>
+      <find>ChromeDriverBrowser</find>
+      <find>bought</find>
+      <find>userinfos</find>
+      <find>absent</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>info_xpath_1</replace>
+      <replace>deliver</replace>
+      <replace>hrome_driver_nobrowser</replace>
+      <replace>chrome_driver_nobrowser</replace>
+      <replace>chrome_driver_browser</replace>
+      <replace>user_info</replace>
+      <replace>base</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/taobaoSpider" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/rest.py" />
+        <option value="$PROJECT_DIR$/userinfo.py" />
+        <option value="$PROJECT_DIR$/mitmproxy_.py" />
+        <option value="$PROJECT_DIR$/userinfos.py" />
+        <option value="$PROJECT_DIR$/taobaoSpider/userinfo.py" />
+        <option value="$PROJECT_DIR$/taobaoSpider/test.py" />
+        <option value="$PROJECT_DIR$/restruct_taobao/userinfos_.py" />
+        <option value="$PROJECT_DIR$/restruct_taobao/init.py" />
+        <option value="$PROJECT_DIR$/taobaoSpider/userinfos.py" />
+        <option value="$PROJECT_DIR$/taobaoSpider/ac_psw.py" />
+        <option value="$PROJECT_DIR$/taobaoSpider/login.py" />
+        <option value="$PROJECT_DIR$/taobaoSpider/.gitignore" />
+        <option value="$PROJECT_DIR$/restruct_taobao/__init__.py" />
+        <option value="$PROJECT_DIR$/restruct_taobao/all_code.py" />
+        <option value="$PROJECT_DIR$/taobaoSpider/deliverAddress.py" />
+        <option value="$PROJECT_DIR$/taobaoSpider/tradedetails.py" />
+        <option value="$PROJECT_DIR$/restruct_taobao/userinfos.py" />
+        <option value="$PROJECT_DIR$/restruct_taobao/deliverAddress.py" />
+        <option value="$PROJECT_DIR$/restruct_taobao/orderdetails.py" />
+        <option value="$PROJECT_DIR$/restruct_taobao/recentdeliveraddress.py" />
+        <option value="$PROJECT_DIR$/restruct_taobao/login.py" />
+        <option value="$PROJECT_DIR$/restruct_taobao/tradedetails.py" />
+        <option value="$PROJECT_DIR$/restruct_taobao/parse_order.py" />
+        <option value="$PROJECT_DIR$/restruct_taobao/setup.py" />
+        <option value="$PROJECT_DIR$/restruct_taobao/test.py" />
+        <option value="$PROJECT_DIR$/taobaoSpider/README.md" />
+        <option value="$PROJECT_DIR$/restruct_taobao/TaoBao_project/session_exception.py" />
+        <option value="$PROJECT_DIR$/restruct_taobao/TaoBao_project/save_data.py" />
+        <option value="$PROJECT_DIR$/restruct_taobao/TaoBao_project/TaoBao.py" />
+        <option value="$PROJECT_DIR$/TaoBao_project/mitmproxy_.py" />
+        <option value="$PROJECT_DIR$/TaoBao_project/save_data.py" />
+        <option value="$PROJECT_DIR$/taobaoSpider/TaoBao_project/TaoBao.py" />
+        <option value="$PROJECT_DIR$/alipaySpider/login.py" />
+        <option value="$PROJECT_DIR$/alipaySpider/jianjiao_data/jianjiao.py" />
+        <option value="$PROJECT_DIR$/alipaySpider/yun_da_ma.py" />
+        <option value="$PROJECT_DIR$/jie_ping/test_.py" />
+        <option value="$PROJECT_DIR$/alipaySpider/identify_code.py" />
+        <option value="$PROJECT_DIR$/alipaySpider/baiduAIP/baidu.py" />
+        <option value="$PROJECT_DIR$/alipaySpider/tesserocr_identify/tesserocr_test.py" />
+        <option value="$PROJECT_DIR$/jie_ping/pillow_test.py" />
+        <option value="$PROJECT_DIR$/jie_ping/cut_screen.py" />
+        <option value="$PROJECT_DIR$/jie_ping/cut_image.py" />
+        <option value="$PROJECT_DIR$/jie_ping/pictures/identify_image.py" />
+        <option value="$PROJECT_DIR$/alipaySpider/baidu.py" />
+        <option value="$PROJECT_DIR$/jie_ping/identify_image.py" />
+        <option value="$PROJECT_DIR$/alipaySpider/test_selenium.py" />
+        <option value="$PROJECT_DIR$/baihe.py" />
+        <option value="$PROJECT_DIR$/restruct_taobao/TaoBao.py" />
+        <option value="$PROJECT_DIR$/restruct_taobao/mitmproxy_.py" />
+        <option value="$PROJECT_DIR$/restruct_taobao/m2.py" />
+        <option value="$PROJECT_DIR$/TaoBao_project/TaoBao.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="951" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="taobao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taobao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taobao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taobao" type="462c0819:PsiDirectoryNode" />
+              <item name="restruct_taobao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taobao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taobao" type="462c0819:PsiDirectoryNode" />
+              <item name="TaoBao_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/TaoBao_project" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\project\spiderProject\taobao\alipaySpider\baiduAIP" />
+      <recent name="D:\project\spiderProject\taobao\jie_ping" />
+      <recent name="D:\PycharmProjects\taobao\alipaySpider\jianjiao_data" />
+      <recent name="D:\PycharmProjects\taobao\alipaySpider\tesserocr_identify" />
+      <recent name="D:\PycharmProjects\taobao\alipaySpider\YunDaMa_Identify" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\spiderProject\taobao\TaoBao_project" />
+      <recent name="D:\project\spiderProject\taobao\jie_ping\pictures\18309169600" />
+      <recent name="D:\project\spiderProject\taobao\jie_ping\pictures\1458010081" />
+      <recent name="D:\PycharmProjects\taobao\jie_ping" />
+      <recent name="D:\PycharmProjects\taobao\alipaySpider" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.TaoBao (1)">
+    <configuration name="TaoBao (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="taobao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/restruct_taobao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/restruct_taobao/TaoBao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TaoBao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="taobao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TaoBao_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TaoBao_project/TaoBao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="baihe" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="taobao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baihe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="identify_image" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="taobao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jie_ping" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jie_ping/identify_image.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_selenium" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="taobao" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/alipaySpider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/alipaySpider/test_selenium.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.identify_image" />
+      <item itemvalue="Python.test_selenium" />
+      <item itemvalue="Python.baihe" />
+      <item itemvalue="Python.TaoBao" />
+      <item itemvalue="Python.TaoBao (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.TaoBao (1)" />
+        <item itemvalue="Python.TaoBao" />
+        <item itemvalue="Python.baihe" />
+        <item itemvalue="Python.test_selenium" />
+        <item itemvalue="Python.identify_image" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1e015c6-c75a-4eaa-9da4-52d2adb061e3" name="Default" comment="" />
+      <created>1552359937656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552359937656</updated>
+      <workItem from="1556153236760" duration="15592000" />
+      <workItem from="1556190523299" duration="19000" />
+      <workItem from="1556240818207" duration="10547000" />
+      <workItem from="1556690940554" duration="228000" />
+      <workItem from="1556955757987" duration="2999000" />
+      <workItem from="1556968953304" duration="1745000" />
+      <workItem from="1557017449039" duration="680000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Twisted_Trial_in_test__py - 2019.04.16 at 11h 19m 27s.xml">
+      <configuration name="Twisted Trial in test_.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Twisted_Trial_in_test__py - 2019.04.16 at 11h 20m 09s.xml">
+      <configuration name="Twisted Trial in test_.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31810000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.3878887" visible="true" weight="0.16420911" />
+      <window_info id="Structure" order="1" sideWeight="0.6121113" side_tool="true" weight="0.23600605" />
+      <window_info id="Favorites" order="2" sideWeight="0.6121113" side_tool="true" weight="0.23600605" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1203966" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43371522" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3289689" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.53846157" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49921507" weight="0.21954674" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50078493" side_tool="true" weight="0.6676218" />
+      <window_info active="true" anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="0" y="0" width="124" height="535" id="Documentation" order="5" side_tool="true" weight="0.30141288" />
+      <window_info anchor="right" id="R Graphics" order="6" />
+      <window_info anchor="right" id="R Packages" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.3878887" visible="true" weight="0.38865837" />
+      <window_info id="Structure" order="1" sideWeight="0.6121113" side_tool="true" weight="0.23600605" />
+      <window_info id="Favorites" order="2" sideWeight="0.6121113" side_tool="true" weight="0.23600605" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.45415473" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43371522" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3289689" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.53846157" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49921507" weight="0.3753541" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50078493" side_tool="true" weight="0.6676218" />
+      <window_info active="true" anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24962178" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" x="0" y="0" width="124" height="535" id="Documentation" order="5" side_tool="true" weight="0.30141288" />
+      <window_info anchor="right" id="R Graphics" order="6" />
+      <window_info anchor="right" id="R Packages" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/taobao$test_.coverage" NAME="test_ Coverage Results" MODIFIED="1556158130717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jie_ping" />
+    <SUITE FILE_PATH="coverage/taobao$identify_image.coverage" NAME="identify_image Coverage Results" MODIFIED="1556243494820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jie_ping" />
+    <SUITE FILE_PATH="coverage/taobao$cut_screen.coverage" NAME="cut_screen Coverage Results" MODIFIED="1556156200488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jie_ping" />
+    <SUITE FILE_PATH="coverage/taobao$baidu__1_.coverage" NAME="baidu (1) Coverage Results" MODIFIED="1556155364254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alipaySpider" />
+    <SUITE FILE_PATH="coverage/taobao$test_selenium.coverage" NAME="test_selenium Coverage Results" MODIFIED="1556260501610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/alipaySpider" />
+    <SUITE FILE_PATH="coverage/taobao$baihe.coverage" NAME="baihe Coverage Results" MODIFIED="1556958060984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/taobao$TaoBao.coverage" NAME="TaoBao Coverage Results" MODIFIED="1556969440047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TaoBao_project" />
+    <SUITE FILE_PATH="coverage/taobao$cut_image.coverage" NAME="cut_image Coverage Results" MODIFIED="1556158081963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jie_ping" />
+    <SUITE FILE_PATH="coverage/taobao$TaoBao__1_.coverage" NAME="TaoBao (1) Coverage Results" MODIFIED="1556970615111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/restruct_taobao" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TaoBao_project/session_exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="8" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaoBao_project/save_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alipaySpider/all_code.py" />
+    <entry file="file://D:/Spiderenv/Lib/site-packages/tesserocr/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/alipaySpider/verificationCode.jpg" />
+    <entry file="file://$PROJECT_DIR$/alipaySpider/code.jpg" />
+    <entry file="file://$PROJECT_DIR$/alipaySpider/code2.jpg" />
+    <entry file="file://$PROJECT_DIR$/alipaySpider/code3.jpg" />
+    <entry file="file://$PROJECT_DIR$/alipaySpider/YunDaMa_Identify/yun_da_ma.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Spiderenv/Lib/site-packages/aip/ocr.py" />
+    <entry file="file://D:/Spiderenv/Lib/site-packages/aip/__init__.py" />
+    <entry file="file://D:/Spiderenv/Lib/site-packages/aip/base.py" />
+    <entry file="file://D:/program/python36/Lib/hmac.py" />
+    <entry file="file://$PROJECT_DIR$/alipaySpider/jianjiao_data/verificationCode.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alipaySpider/jianjiao_data/jianjiao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Spiderenv/Lib/site-packages/PIL/Image.py" />
+    <entry file="file://$PROJECT_DIR$/jie_ping/pictures/yu_e/yue_e_1.jpg" />
+    <entry file="file://$PROJECT_DIR$/jie_ping/pictures/yu_e_bao/yue_e_bao_1.jpg" />
+    <entry file="file://$PROJECT_DIR$/jie_ping/pictures/hua_bei/hua_bei_1.jpg" />
+    <entry file="file://$PROJECT_DIR$/alipaySpider/jianjiao_data/zhifubao.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jie_ping/pictures/18309169600/yue_e_bao.jpg" />
+    <entry file="file://D:/Spiderenv/Lib/site-packages/pytesseract/pytesseract.py" />
+    <entry file="file://$PROJECT_DIR$/alipaySpider/tesserocr_identify/tesserocr_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alipaySpider/baiduAIP/test.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jie_ping/pictures/18309169600/yue_e.jpg" />
+    <entry file="file://$PROJECT_DIR$/jie_ping/pictures/18309169600/hua_bei.jpg" />
+    <entry file="file://$PROJECT_DIR$/jie_ping/zhifubao_all_info.png" />
+    <entry file="file://$PROJECT_DIR$/alipaySpider/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jie_ping/test_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jie_ping/pictures/1458010081/hua_bei.jpg" />
+    <entry file="file://$PROJECT_DIR$/jie_ping/pictures/1458010081/yue_e.jpg" />
+    <entry file="file://$PROJECT_DIR$/jie_ping/pictures/1458010081/yue_e_bao.jpg" />
+    <entry file="file://$PROJECT_DIR$/jie_ping/pictures/1458010081/zhifubao.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alipaySpider/baiduAIP/baidu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alipaySpider/baiduAIP/baidu_api_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alipaySpider/login.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jie_ping/cut_screen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+          <folding>
+            <element signature="e#11#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jie_ping/cut_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+          <folding>
+            <element signature="e#14#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alipaySpider/baidu.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alipaySpider/baidu2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alipaySpider/test_selenium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jie_ping/identify_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taobaoSpider/TaoBao_project/TaoBao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="120" column="27" selection-start-line="120" selection-start-column="27" selection-end-line="120" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaoBao_project/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaoBao_project/mitmproxy_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restruct_taobao/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restruct_taobao/TaoBao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="36" column="6" lean-forward="true" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baihe.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="12" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restruct_taobao/mitmproxy_.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/restruct_taobao/m2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="47" lean-forward="true" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TaoBao_project/TaoBao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="383" lean-forward="true" selection-start-line="383" selection-end-line="383" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
