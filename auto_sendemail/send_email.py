@@ -6,7 +6,7 @@ SENDER = "朋友"
 SEND_EMAIL = '1458010081@qq.com'
 RECEIVER = "郑帅"
 RECEIVER_EMAIL = ['18309169600@163.com']
-ACTIVE_CODE = "qtmttcedqfkjhegi"
+ACTIVE_CODE = ""
 SUBJECT = '来自异世界的一封信！'
 CONNECT_EMAIL = "smtp.qq.com"
 

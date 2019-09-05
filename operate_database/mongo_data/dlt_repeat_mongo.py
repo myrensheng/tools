@@ -1,5 +1,5 @@
 import pymongo
-
+qtmttcedqfkjhegi
 # mongoDB的连接方式。
 """
 # 万能模板
